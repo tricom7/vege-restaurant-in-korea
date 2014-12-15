@@ -1,0 +1,1286 @@
+TWorldPhotos
+v7
+r0
+t322881703.027804
+cCheck dependencies
+cProcessInfoPlistFile "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/Debug-iphonesimulator/WorldPhotos.app/Info.plist" WorldPhotos-Info.plist
+cCompileXIB "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/MainWindow.xib"
+cCompileXIB "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/RootViewController.xib"
+cCpResource build/Debug-iphonesimulator/WorldPhotos.app/Africa_Morocco_1_thumbnail.jpg Africa_Morocco_1_thumbnail.jpg
+cCpResource build/Debug-iphonesimulator/WorldPhotos.app/Africa_Morocco_1.jpg Africa_Morocco_1.jpg
+cCpResource build/Debug-iphonesimulator/WorldPhotos.app/Asia_Japan_1_thumbnail.jpg Asia_Japan_1_thumbnail.jpg
+cCpResource build/Debug-iphonesimulator/WorldPhotos.app/Asia_Japan_1.jpg Asia_Japan_1.jpg
+cCpResource build/Debug-iphonesimulator/WorldPhotos.app/Europe_Swiss_1_thumbnail.jpg Europe_Swiss_1_thumbnail.jpg
+cCpResource build/Debug-iphonesimulator/WorldPhotos.app/Europe_Swiss_1.jpg Europe_Swiss_1.jpg
+cCompileXIB "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Classes/PhotoDetailViewController.xib"
+cCompileXIB "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Classes/PhotoMapViewController.xib"
+cCompileXIB "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/PhotoTableCell.xib"
+cProcessPCH /var/folders/wv/wv7Yk39CFx8db4vQjr2nrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WorldPhotos_Prefix-ekwabxagdmswpdaimmmacuutcmse/WorldPhotos_Prefix.pch.gch WorldPhotos_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/main.o "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/WorldPhotosAppDelegate.o "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Classes/WorldPhotosAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/RootViewController.o "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/PhotoDetailViewController.o "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Classes/PhotoDetailViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/PhotoMapViewController.o "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Classes/PhotoMapViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/Debug-iphonesimulator/WorldPhotos.app/WorldPhotos" normal i386
+cGenerateDSYMFile "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/Debug-iphonesimulator/WorldPhotos.app.dSYM" "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/Debug-iphonesimulator/WorldPhotos.app/WorldPhotos"
+cTouch "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/Debug-iphonesimulator/WorldPhotos.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004C6C2FF1000000000006B7E0
+t1282158577
+s440288
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004C6C2FEA00000000000001D0
+t1282158570
+s464
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004C6C301100000000000002FE
+t1282158609
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004C6C303B000000000016DD50
+t1282158651
+s1498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/Availability.h
+c000000004C57A0390000000000001A5C
+t1280811065
+s6748
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004CC127E80000000000074190
+t1287727080
+s475536
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004CC127DD00000000000001D0
+t1287727069
+s464
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004CC1294D00000000000002FE
+t1287727437
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004CC12977000000000017E7F0
+t1287727479
+s1566704
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Users/tricom7/Documents/InchonTour/Africa_Morocco_1.jpg
+c000000004944AE60000000000007A05A
+t1229237856
+s499802
+
+N/Users/tricom7/Documents/InchonTour/Africa_Morocco_1_thumbnail.jpg
+c000000004A700A46000000000000411F
+t1248856646
+s16671
+
+N/Users/tricom7/Documents/InchonTour/Asia_Japan_1.jpg
+c00000000492D7206000000000007C2FE
+t1227715078
+s508670
+
+N/Users/tricom7/Documents/InchonTour/Asia_Japan_1_thumbnail.jpg
+c000000004A700A580000000000003F12
+t1248856664
+s16146
+
+N/Users/tricom7/Documents/InchonTour/Classes/PhotoDetailViewController.h
+c000000004CFB49D8000000000000022F
+t1291536856
+s559
+i<UIKit/UIKit.h>
+
+N/Users/tricom7/Documents/InchonTour/Classes/PhotoDetailViewController.m
+c000000004CFF832300000000000008A7
+t1291813667
+s2215
+i"PhotoDetailViewController.h"
+i"PhotoMapViewController.h"
+
+N/Users/tricom7/Documents/InchonTour/Classes/PhotoDetailViewController.xib
+c000000004CFB596A0000000000004F88
+t1291540842
+s20360
+
+N/Users/tricom7/Documents/InchonTour/Classes/PhotoMapViewController.h
+c000000004CFB96F300000000000001A4
+t1291556595
+s420
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+
+N/Users/tricom7/Documents/InchonTour/Classes/PhotoMapViewController.m
+c000000004CFF824D0000000000000719
+t1291813453
+s1817
+i"PhotoMapViewController.h"
+
+N/Users/tricom7/Documents/InchonTour/Classes/PhotoMapViewController.xib
+c000000004CFB971300000000000042AD
+t1291556627
+s17069
+
+N/Users/tricom7/Documents/InchonTour/Classes/RootViewController.h
+c000000004CFAE76B0000000000000138
+t1291511659
+s312
+i<UIKit/UIKit.h>
+
+N/Users/tricom7/Documents/InchonTour/Classes/RootViewController.m
+c000000004D6D8A4E0000000000001593
+t1299024462
+s5523
+i"RootViewController.h"
+i"WorldPhotosAppDelegate.h"
+i"PhotoDetailViewController.h"
+
+N/Users/tricom7/Documents/InchonTour/Classes/WorldPhotosAppDelegate.h
+c000000004CF9B7260000000000000222
+t1291433766
+s546
+i<UIKit/UIKit.h>
+
+N/Users/tricom7/Documents/InchonTour/Classes/WorldPhotosAppDelegate.m
+c000000004D6D8ACC00000000000010E6
+t1299024588
+s4326
+i"WorldPhotosAppDelegate.h"
+i"RootViewController.h"
+i<CoreLocation/CoreLocation.h>
+
+N/Users/tricom7/Documents/InchonTour/Europe_Swiss_1.jpg
+c00000000494F5B79000000000007D03C
+t1229937529
+s512060
+
+N/Users/tricom7/Documents/InchonTour/Europe_Swiss_1_thumbnail.jpg
+c000000004A700A6E00000000000041A8
+t1248856686
+s16808
+
+N/Users/tricom7/Documents/InchonTour/MainWindow.xib
+c000000004CF8DEF70000000000006004
+t1291378423
+s24580
+
+N/Users/tricom7/Documents/InchonTour/PhotoTableCell.xib
+c000000004D6D8BA80000000000002BEC
+t1299024808
+s11244
+
+N/Users/tricom7/Documents/InchonTour/RootViewController.xib
+c000000004D0021510000000000004239
+t1291854161
+s16953
+
+N/Users/tricom7/Documents/InchonTour/WorldPhotos_Prefix.pch
+c000000004CF8DEF70000000000000148
+t1291378423
+s328
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/tricom7/Documents/InchonTour/build/Debug-iphonesimulator/WorldPhotos.app
+t1299024813
+s544
+
+N/Users/tricom7/Documents/InchonTour/build/Debug-iphonesimulator/WorldPhotos.app.dSYM
+t1299024592
+s102
+
+N/Users/tricom7/Documents/InchonTour/build/Debug-iphonesimulator/WorldPhotos.app/Africa_Morocco_1.jpg
+t1294725792
+s499802
+
+N/Users/tricom7/Documents/InchonTour/build/Debug-iphonesimulator/WorldPhotos.app/Africa_Morocco_1_thumbnail.jpg
+t1294725792
+s16671
+
+N/Users/tricom7/Documents/InchonTour/build/Debug-iphonesimulator/WorldPhotos.app/Asia_Japan_1.jpg
+t1294725792
+s508670
+
+N/Users/tricom7/Documents/InchonTour/build/Debug-iphonesimulator/WorldPhotos.app/Asia_Japan_1_thumbnail.jpg
+t1294725792
+s16146
+
+N/Users/tricom7/Documents/InchonTour/build/Debug-iphonesimulator/WorldPhotos.app/Europe_Swiss_1.jpg
+t1294725792
+s512060
+
+N/Users/tricom7/Documents/InchonTour/build/Debug-iphonesimulator/WorldPhotos.app/Europe_Swiss_1_thumbnail.jpg
+t1294725792
+s16808
+
+N/Users/tricom7/Documents/InchonTour/build/Debug-iphonesimulator/WorldPhotos.app/Info.plist
+t1294725792
+s607
+
+N/Users/tricom7/Documents/InchonTour/build/Debug-iphonesimulator/WorldPhotos.app/MainWindow.nib
+t1294725792
+s1513
+
+N/Users/tricom7/Documents/InchonTour/build/Debug-iphonesimulator/WorldPhotos.app/PhotoDetailViewController.nib
+t1294725793
+s1159
+
+N/Users/tricom7/Documents/InchonTour/build/Debug-iphonesimulator/WorldPhotos.app/PhotoMapViewController.nib
+t1294725793
+s1152
+
+N/Users/tricom7/Documents/InchonTour/build/Debug-iphonesimulator/WorldPhotos.app/PhotoTableCell.nib
+t1299024813
+s1690
+
+N/Users/tricom7/Documents/InchonTour/build/Debug-iphonesimulator/WorldPhotos.app/PkgInfo
+t1294725792
+s8
+
+N/Users/tricom7/Documents/InchonTour/build/Debug-iphonesimulator/WorldPhotos.app/RootViewController.nib
+t1294725792
+s979
+
+N/Users/tricom7/Documents/InchonTour/build/Debug-iphonesimulator/WorldPhotos.app/WorldPhotos
+t1299024592
+s32516
+
+N/Users/tricom7/Documents/InchonTour/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/PhotoDetailViewController.o
+t1299024312
+s46404
+
+N/Users/tricom7/Documents/InchonTour/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/PhotoMapViewController.o
+t1299024312
+s44228
+
+N/Users/tricom7/Documents/InchonTour/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/RootViewController.o
+t1299024465
+s52248
+
+N/Users/tricom7/Documents/InchonTour/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/WorldPhotos.LinkFileList
+c000000004D6D89B600000000000002C2
+t1299024310
+s706
+
+N/Users/tricom7/Documents/InchonTour/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/WorldPhotosAppDelegate.o
+t1299024592
+s59012
+
+N/Users/tricom7/Documents/InchonTour/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/main.o
+t1299024311
+s6296
+
+N/Users/tricom7/Documents/InchonTour/main.m
+c000000004CF8DEF7000000000000016D
+t1291378423
+s365
+i<UIKit/UIKit.h>
+
+N/Users/tricom7/Documents/WorldPhotos/Africa_Morocco_1.jpg
+c000000004944AE60000000000007A05A
+t1229237856
+s499802
+
+N/Users/tricom7/Documents/WorldPhotos/Africa_Morocco_1_thumbnail.jpg
+c000000004A700A46000000000000411F
+t1248856646
+s16671
+
+N/Users/tricom7/Documents/WorldPhotos/Asia_Japan_1.jpg
+c00000000492D7206000000000007C2FE
+t1227715078
+s508670
+
+N/Users/tricom7/Documents/WorldPhotos/Asia_Japan_1_thumbnail.jpg
+c000000004A700A580000000000003F12
+t1248856664
+s16146
+
+N/Users/tricom7/Documents/WorldPhotos/Classes/PhotoDetailViewController.h
+c000000004CFB49D8000000000000022F
+t1291536856
+s559
+i<UIKit/UIKit.h>
+
+N/Users/tricom7/Documents/WorldPhotos/Classes/PhotoDetailViewController.m
+c000000004CFF832300000000000008A7
+t1291813667
+s2215
+i"PhotoDetailViewController.h"
+i"PhotoMapViewController.h"
+
+N/Users/tricom7/Documents/WorldPhotos/Classes/PhotoDetailViewController.xib
+c000000004CFB596A0000000000004F88
+t1291540842
+s20360
+
+N/Users/tricom7/Documents/WorldPhotos/Classes/PhotoMapViewController.h
+c000000004CFB96F300000000000001A4
+t1291556595
+s420
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+
+N/Users/tricom7/Documents/WorldPhotos/Classes/PhotoMapViewController.m
+c000000004CFF824D0000000000000719
+t1291813453
+s1817
+i"PhotoMapViewController.h"
+
+N/Users/tricom7/Documents/WorldPhotos/Classes/PhotoMapViewController.xib
+c000000004CFB971300000000000042AD
+t1291556627
+s17069
+
+N/Users/tricom7/Documents/WorldPhotos/Classes/RootViewController.h
+c000000004CFAE76B0000000000000138
+t1291511659
+s312
+i<UIKit/UIKit.h>
+
+N/Users/tricom7/Documents/WorldPhotos/Classes/RootViewController.m
+c000000004CFF81690000000000001592
+t1291813225
+s5522
+i"RootViewController.h"
+i"WorldPhotosAppDelegate.h"
+i"PhotoDetailViewController.h"
+
+N/Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.h
+c000000004CF9B7260000000000000222
+t1291433766
+s546
+i<UIKit/UIKit.h>
+
+N/Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m
+c000000004CFA276D00000000000010D7
+t1291462509
+s4311
+i"WorldPhotosAppDelegate.h"
+i"RootViewController.h"
+i<CoreLocation/CoreLocation.h>
+
+N/Users/tricom7/Documents/WorldPhotos/Europe_Swiss_1.jpg
+c00000000494F5B79000000000007D03C
+t1229937529
+s512060
+
+N/Users/tricom7/Documents/WorldPhotos/Europe_Swiss_1_thumbnail.jpg
+c000000004A700A6E00000000000041A8
+t1248856686
+s16808
+
+N/Users/tricom7/Documents/WorldPhotos/MainWindow.xib
+c000000004CF8DEF70000000000006004
+t1291378423
+s24580
+
+N/Users/tricom7/Documents/WorldPhotos/PhotoTableCell.xib
+c000000004CFF81A90000000000004551
+t1291813289
+s17745
+
+N/Users/tricom7/Documents/WorldPhotos/RootViewController.xib
+c000000004D0021510000000000004239
+t1291854161
+s16953
+
+N/Users/tricom7/Documents/WorldPhotos/WorldPhotos_Prefix.pch
+c000000004CF8DEF70000000000000148
+t1291378423
+s328
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app
+t1297402166
+s544
+
+N/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app.dSYM
+t1297402166
+s102
+
+N/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app/Africa_Morocco_1.jpg
+t1294725792
+s499802
+
+N/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app/Africa_Morocco_1_thumbnail.jpg
+t1294725792
+s16671
+
+N/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app/Asia_Japan_1.jpg
+t1294725792
+s508670
+
+N/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app/Asia_Japan_1_thumbnail.jpg
+t1294725792
+s16146
+
+N/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app/Europe_Swiss_1.jpg
+t1294725792
+s512060
+
+N/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app/Europe_Swiss_1_thumbnail.jpg
+t1294725792
+s16808
+
+N/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app/Info.plist
+t1294725792
+s607
+
+N/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app/MainWindow.nib
+t1294725792
+s1513
+
+N/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app/PhotoDetailViewController.nib
+t1294725793
+s1159
+
+N/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app/PhotoMapViewController.nib
+t1294725793
+s1152
+
+N/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app/PhotoTableCell.nib
+t1294725793
+s1690
+
+N/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app/PkgInfo
+t1294725792
+s8
+
+N/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app/RootViewController.nib
+t1294725792
+s979
+
+N/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app/WorldPhotos
+t1297402166
+s32524
+
+N/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/PhotoDetailViewController.o
+t1297402166
+s46408
+
+N/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/PhotoMapViewController.o
+t1297402166
+s44236
+
+N/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/RootViewController.o
+t1297402166
+s52152
+
+N/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/WorldPhotos.LinkFileList
+c000000004CFB7B0700000000000002C7
+t1291549447
+s711
+
+N/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/WorldPhotosAppDelegate.o
+t1297402166
+s58888
+
+N/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/main.o
+t1297402166
+s6300
+
+N/Users/tricom7/Documents/WorldPhotos/main.m
+c000000004CF8DEF7000000000000016D
+t1291378423
+s365
+i<UIKit/UIKit.h>
+
+N/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Africa_Morocco_1.jpg
+c000000004944AE60000000000007A05A
+t1229237856
+s499802
+
+N/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Africa_Morocco_1_thumbnail.jpg
+c000000004A700A46000000000000411F
+t1248856646
+s16671
+
+N/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Asia_Japan_1.jpg
+c00000000492D7206000000000007C2FE
+t1227715078
+s508670
+
+N/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Asia_Japan_1_thumbnail.jpg
+c000000004A700A580000000000003F12
+t1248856664
+s16146
+
+N/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Classes/PhotoDetailViewController.h
+c000000004CFB49D8000000000000022F
+t1291536856
+s559
+i<UIKit/UIKit.h>
+
+N/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Classes/PhotoDetailViewController.m
+c000000004CFF832300000000000008A7
+t1291813667
+s2215
+i"PhotoDetailViewController.h"
+i"PhotoMapViewController.h"
+
+N/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Classes/PhotoDetailViewController.xib
+c000000004CFB596A0000000000004F88
+t1291540842
+s20360
+
+N/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Classes/PhotoMapViewController.h
+c000000004CFB96F300000000000001A4
+t1291556595
+s420
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+
+N/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Classes/PhotoMapViewController.m
+c000000004CFF824D0000000000000719
+t1291813453
+s1817
+i"PhotoMapViewController.h"
+
+N/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Classes/PhotoMapViewController.xib
+c000000004CFB971300000000000042AD
+t1291556627
+s17069
+
+N/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Classes/RootViewController.h
+c000000004CFAE76B0000000000000138
+t1291511659
+s312
+i<UIKit/UIKit.h>
+
+N/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Classes/RootViewController.m
+c000000004D6DB90500000000000015A0
+t1299036421
+s5536
+i"RootViewController.h"
+i"WorldPhotosAppDelegate.h"
+i"PhotoDetailViewController.h"
+
+N/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Classes/WorldPhotosAppDelegate.h
+c000000004CF9B7260000000000000222
+t1291433766
+s546
+i<UIKit/UIKit.h>
+
+N/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Classes/WorldPhotosAppDelegate.m
+c000000004D6DBE27000000000000113C
+t1299037735
+s4412
+i"WorldPhotosAppDelegate.h"
+i"RootViewController.h"
+i<CoreLocation/CoreLocation.h>
+
+N/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Europe_Swiss_1.jpg
+c00000000494F5B79000000000007D03C
+t1229937529
+s512060
+
+N/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Europe_Swiss_1_thumbnail.jpg
+c000000004A700A6E00000000000041A8
+t1248856686
+s16808
+
+N/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/MainWindow.xib
+c000000004CF8DEF70000000000006004
+t1291378423
+s24580
+
+N/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/PhotoTableCell.xib
+c000000004D6D8BA80000000000002BEC
+t1299024808
+s11244
+
+N/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/RootViewController.xib
+c000000004D0021510000000000004239
+t1291854161
+s16953
+
+N/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/WorldPhotos_Prefix.pch
+c000000004CF8DEF70000000000000148
+t1291378423
+s328
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/Debug-iphonesimulator/WorldPhotos.app
+t1301188903
+s544
+
+N/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/Debug-iphonesimulator/WorldPhotos.app.dSYM
+t1301188902
+s102
+
+N/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/Debug-iphonesimulator/WorldPhotos.app/Africa_Morocco_1.jpg
+t1294725792
+s499802
+
+N/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/Debug-iphonesimulator/WorldPhotos.app/Africa_Morocco_1_thumbnail.jpg
+t1294725792
+s16671
+
+N/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/Debug-iphonesimulator/WorldPhotos.app/Asia_Japan_1.jpg
+t1294725792
+s508670
+
+N/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/Debug-iphonesimulator/WorldPhotos.app/Asia_Japan_1_thumbnail.jpg
+t1294725792
+s16146
+
+N/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/Debug-iphonesimulator/WorldPhotos.app/Europe_Swiss_1.jpg
+t1294725792
+s512060
+
+N/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/Debug-iphonesimulator/WorldPhotos.app/Europe_Swiss_1_thumbnail.jpg
+t1294725792
+s16808
+
+N/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/Debug-iphonesimulator/WorldPhotos.app/Info.plist
+t1294725792
+s607
+
+N/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/Debug-iphonesimulator/WorldPhotos.app/MainWindow.nib
+t1294725792
+s1513
+
+N/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/Debug-iphonesimulator/WorldPhotos.app/PhotoDetailViewController.nib
+t1294725793
+s1159
+
+N/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/Debug-iphonesimulator/WorldPhotos.app/PhotoMapViewController.nib
+t1294725793
+s1152
+
+N/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/Debug-iphonesimulator/WorldPhotos.app/PhotoTableCell.nib
+t1299024813
+s1690
+
+N/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/Debug-iphonesimulator/WorldPhotos.app/PkgInfo
+t1294725792
+s8
+
+N/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/Debug-iphonesimulator/WorldPhotos.app/RootViewController.nib
+t1294725792
+s979
+
+N/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/Debug-iphonesimulator/WorldPhotos.app/WorldPhotos
+t1301188902
+s33116
+
+N/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/PhotoDetailViewController.o
+t1301188902
+s46524
+
+N/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/PhotoMapViewController.o
+t1301188902
+s44348
+
+N/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/RootViewController.o
+t1301188902
+s52376
+
+N/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/WorldPhotos.LinkFileList
+c000000004D8E912000000000000003EE
+t1301188896
+s1006
+
+N/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/WorldPhotosAppDelegate.o
+t1301188902
+s59148
+
+N/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/main.o
+t1301188902
+s6416
+
+N/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/main.m
+c000000004CF8DEF7000000000000016D
+t1291378423
+s365
+i<UIKit/UIKit.h>
+
+N/var/folders/wv/wv7Yk39CFx8db4vQjr2nrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WorldPhotos_Prefix-bkguyqmkduwrfiasiyqqdiqdvlog/WorldPhotos_Prefix.pch.gch
+t1297402165
+s15453392
+
+N/var/folders/wv/wv7Yk39CFx8db4vQjr2nrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WorldPhotos_Prefix-ekwabxagdmswpdaimmmacuutcmse/WorldPhotos_Prefix.pch.gch
+t1301188902
+s15453392
+
+N/var/folders/wv/wv7Yk39CFx8db4vQjr2nrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WorldPhotos_Prefix-fcjhwegrihoydqfpengpvnbmxvpt/WorldPhotos_Prefix.pch.gch
+t1299024311
+s15453392
+
+N/var/folders/wv/wv7Yk39CFx8db4vQjr2nrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WorldPhotos_Prefix-gkgjbggtvulaejfwpyaprxmrzwxj/WorldPhotos_Prefix.pch.gch
+t1291434576
+s15211536
+
+NWorldPhotos-Info.plist
+c000000004CF8DEF7000000000000038D
+t1291378423
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies322881696#322881696#0(0"0(0#1#0"8632114528#0"0#
+
+CCompileC build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/PhotoDetailViewController.o "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Classes/PhotoDetailViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s322881702.741506
+e322881702.856500
+r1
+xCompileC
+xbuild/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/PhotoDetailViewController.o
+x/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Classes/PhotoDetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@139"Compile /Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Classes/PhotoDetailViewController.m322881702#322881702#0(0"0(0#0#131"/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Classes/PhotoDetailViewController.m8642450432#2693"    cd "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-generated-files.hmap" "-I/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-own-target-headers.hmap" "-I/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-all-target-headers.hmap" -iquote "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-project-headers.hmap" "-F/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/Debug-iphonesimulator" "-I/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/Debug-iphonesimulator/include" "-I/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/DerivedSources/i386" "-I/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/DerivedSources" -include /var/folders/wv/wv7Yk39CFx8db4vQjr2nrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WorldPhotos_Prefix-ekwabxagdmswpdaimmmacuutcmse/WorldPhotos_Prefix.pch -c "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Classes/PhotoDetailViewController.m" -o "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/PhotoDetailViewController.o"0#
+
+CCompileC build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/PhotoDetailViewController.o /Users/tricom7/Documents/InchonTour/Classes/PhotoDetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320717112.044104
+e320717112.177844
+r1
+xCompileC
+xbuild/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/PhotoDetailViewController.o
+x/Users/tricom7/Documents/InchonTour/Classes/PhotoDetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/tricom7/Documents/InchonTour/Classes/PhotoDetailViewController.m320717112#320717112#0(0"0(0#0#71"/Users/tricom7/Documents/InchonTour/Classes/PhotoDetailViewController.m8606643520#2011"    cd /Users/tricom7/Documents/InchonTour    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/tricom7/Documents/InchonTour/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-generated-files.hmap -I/Users/tricom7/Documents/InchonTour/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-own-target-headers.hmap -I/Users/tricom7/Documents/InchonTour/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-all-target-headers.hmap -iquote /Users/tricom7/Documents/InchonTour/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-project-headers.hmap -F/Users/tricom7/Documents/InchonTour/build/Debug-iphonesimulator -I/Users/tricom7/Documents/InchonTour/build/Debug-iphonesimulator/include -I/Users/tricom7/Documents/InchonTour/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/DerivedSources/i386 -I/Users/tricom7/Documents/InchonTour/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/DerivedSources -include /var/folders/wv/wv7Yk39CFx8db4vQjr2nrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WorldPhotos_Prefix-fcjhwegrihoydqfpengpvnbmxvpt/WorldPhotos_Prefix.pch -c /Users/tricom7/Documents/InchonTour/Classes/PhotoDetailViewController.m -o /Users/tricom7/Documents/InchonTour/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/PhotoDetailViewController.o0#
+
+CCompileC build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/PhotoDetailViewController.o /Users/tricom7/Documents/WorldPhotos/Classes/PhotoDetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319094966.232309
+e319094966.332346
+r1
+xCompileC
+xbuild/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/PhotoDetailViewController.o
+x/Users/tricom7/Documents/WorldPhotos/Classes/PhotoDetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/tricom7/Documents/WorldPhotos/Classes/PhotoDetailViewController.m319094966#319094966#0(0"0(0#0#72"/Users/tricom7/Documents/WorldPhotos/Classes/PhotoDetailViewController.m8680539488#2022"    cd /Users/tricom7/Documents/WorldPhotos    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-generated-files.hmap -I/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-own-target-headers.hmap -I/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-all-target-headers.hmap -iquote /Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-project-headers.hmap -F/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator -I/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/include -I/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/DerivedSources/i386 -I/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/DerivedSources -include /var/folders/wv/wv7Yk39CFx8db4vQjr2nrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WorldPhotos_Prefix-bkguyqmkduwrfiasiyqqdiqdvlog/WorldPhotos_Prefix.pch -c /Users/tricom7/Documents/WorldPhotos/Classes/PhotoDetailViewController.m -o /Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/PhotoDetailViewController.o0#
+
+CCompileC build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/PhotoMapViewController.o "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Classes/PhotoMapViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s322881702.788580
+e322881702.881147
+r1
+xCompileC
+xbuild/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/PhotoMapViewController.o
+x/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Classes/PhotoMapViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@136"Compile /Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Classes/PhotoMapViewController.m322881702#322881702#0(0"0(0#0#128"/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Classes/PhotoMapViewController.m8640727872#2687"    cd "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-generated-files.hmap" "-I/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-own-target-headers.hmap" "-I/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-all-target-headers.hmap" -iquote "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-project-headers.hmap" "-F/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/Debug-iphonesimulator" "-I/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/Debug-iphonesimulator/include" "-I/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/DerivedSources/i386" "-I/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/DerivedSources" -include /var/folders/wv/wv7Yk39CFx8db4vQjr2nrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WorldPhotos_Prefix-ekwabxagdmswpdaimmmacuutcmse/WorldPhotos_Prefix.pch -c "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Classes/PhotoMapViewController.m" -o "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/PhotoMapViewController.o"0#
+
+CCompileC build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/PhotoMapViewController.o /Users/tricom7/Documents/InchonTour/Classes/PhotoMapViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320717112.092868
+e320717112.193318
+r1
+xCompileC
+xbuild/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/PhotoMapViewController.o
+x/Users/tricom7/Documents/InchonTour/Classes/PhotoMapViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/tricom7/Documents/InchonTour/Classes/PhotoMapViewController.m320717112#320717112#0(0"0(0#0#68"/Users/tricom7/Documents/InchonTour/Classes/PhotoMapViewController.m8607423136#2005"    cd /Users/tricom7/Documents/InchonTour    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/tricom7/Documents/InchonTour/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-generated-files.hmap -I/Users/tricom7/Documents/InchonTour/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-own-target-headers.hmap -I/Users/tricom7/Documents/InchonTour/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-all-target-headers.hmap -iquote /Users/tricom7/Documents/InchonTour/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-project-headers.hmap -F/Users/tricom7/Documents/InchonTour/build/Debug-iphonesimulator -I/Users/tricom7/Documents/InchonTour/build/Debug-iphonesimulator/include -I/Users/tricom7/Documents/InchonTour/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/DerivedSources/i386 -I/Users/tricom7/Documents/InchonTour/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/DerivedSources -include /var/folders/wv/wv7Yk39CFx8db4vQjr2nrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WorldPhotos_Prefix-fcjhwegrihoydqfpengpvnbmxvpt/WorldPhotos_Prefix.pch -c /Users/tricom7/Documents/InchonTour/Classes/PhotoMapViewController.m -o /Users/tricom7/Documents/InchonTour/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/PhotoMapViewController.o0#
+
+CCompileC build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/PhotoMapViewController.o /Users/tricom7/Documents/WorldPhotos/Classes/PhotoMapViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319094966.292780
+e319094966.393167
+r1
+xCompileC
+xbuild/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/PhotoMapViewController.o
+x/Users/tricom7/Documents/WorldPhotos/Classes/PhotoMapViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/tricom7/Documents/WorldPhotos/Classes/PhotoMapViewController.m319094966#319094966#0(0"0(0#0#69"/Users/tricom7/Documents/WorldPhotos/Classes/PhotoMapViewController.m8697990816#2016"    cd /Users/tricom7/Documents/WorldPhotos    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-generated-files.hmap -I/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-own-target-headers.hmap -I/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-all-target-headers.hmap -iquote /Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-project-headers.hmap -F/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator -I/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/include -I/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/DerivedSources/i386 -I/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/DerivedSources -include /var/folders/wv/wv7Yk39CFx8db4vQjr2nrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WorldPhotos_Prefix-bkguyqmkduwrfiasiyqqdiqdvlog/WorldPhotos_Prefix.pch -c /Users/tricom7/Documents/WorldPhotos/Classes/PhotoMapViewController.m -o /Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/PhotoMapViewController.o0#
+
+CCompileC build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/RootViewController.o "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s322881702.696650
+e322881702.788467
+r1
+xCompileC
+xbuild/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/RootViewController.o
+x/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@132"Compile /Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Classes/RootViewController.m322881702#322881702#0(0"0(0#0#124"/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Classes/RootViewController.m8650034336#2679"    cd "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-generated-files.hmap" "-I/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-own-target-headers.hmap" "-I/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-all-target-headers.hmap" -iquote "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-project-headers.hmap" "-F/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/Debug-iphonesimulator" "-I/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/Debug-iphonesimulator/include" "-I/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/DerivedSources/i386" "-I/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/DerivedSources" -include /var/folders/wv/wv7Yk39CFx8db4vQjr2nrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WorldPhotos_Prefix-ekwabxagdmswpdaimmmacuutcmse/WorldPhotos_Prefix.pch -c "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Classes/RootViewController.m" -o "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/RootViewController.o"0#
+
+CCompileC build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/RootViewController.o /Users/tricom7/Documents/InchonTour/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320717265.013807
+e320717265.168322
+r1
+xCompileC
+xbuild/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/RootViewController.o
+x/Users/tricom7/Documents/InchonTour/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/tricom7/Documents/InchonTour/Classes/RootViewController.m320717265#320717265#0(0"0(0#0#64"/Users/tricom7/Documents/InchonTour/Classes/RootViewController.m8611393024#1997"    cd /Users/tricom7/Documents/InchonTour    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/tricom7/Documents/InchonTour/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-generated-files.hmap -I/Users/tricom7/Documents/InchonTour/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-own-target-headers.hmap -I/Users/tricom7/Documents/InchonTour/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-all-target-headers.hmap -iquote /Users/tricom7/Documents/InchonTour/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-project-headers.hmap -F/Users/tricom7/Documents/InchonTour/build/Debug-iphonesimulator -I/Users/tricom7/Documents/InchonTour/build/Debug-iphonesimulator/include -I/Users/tricom7/Documents/InchonTour/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/DerivedSources/i386 -I/Users/tricom7/Documents/InchonTour/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/DerivedSources -include /var/folders/wv/wv7Yk39CFx8db4vQjr2nrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WorldPhotos_Prefix-fcjhwegrihoydqfpengpvnbmxvpt/WorldPhotos_Prefix.pch -c /Users/tricom7/Documents/InchonTour/Classes/RootViewController.m -o /Users/tricom7/Documents/InchonTour/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/RootViewController.o /Users/tricom7/Documents/WorldPhotos/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319094966.192639
+e319094966.292670
+r1
+xCompileC
+xbuild/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/RootViewController.o
+x/Users/tricom7/Documents/WorldPhotos/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/tricom7/Documents/WorldPhotos/Classes/RootViewController.m319094966#319094966#0(0"0(0#0#65"/Users/tricom7/Documents/WorldPhotos/Classes/RootViewController.m8683782624#2008"    cd /Users/tricom7/Documents/WorldPhotos    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-generated-files.hmap -I/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-own-target-headers.hmap -I/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-all-target-headers.hmap -iquote /Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-project-headers.hmap -F/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator -I/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/include -I/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/DerivedSources/i386 -I/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/DerivedSources -include /var/folders/wv/wv7Yk39CFx8db4vQjr2nrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WorldPhotos_Prefix-bkguyqmkduwrfiasiyqqdiqdvlog/WorldPhotos_Prefix.pch -c /Users/tricom7/Documents/WorldPhotos/Classes/RootViewController.m -o /Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/WorldPhotosAppDelegate.o "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Classes/WorldPhotosAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s322881702.625651
+e322881702.741395
+r1
+xCompileC
+xbuild/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/WorldPhotosAppDelegate.o
+x/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Classes/WorldPhotosAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Classes/WorldPhotosAppDelegate.m: In function '-[WorldPhotosAppDelegate application:didFinishLaunchingWithOptions:]':
+o/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Classes/WorldPhotosAppDelegate.m:25: warning: 'WorldPhotosAppDelegate' may not respond to '-createPhotoData'
+o/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Classes/WorldPhotosAppDelegate.m:25: warning: (Messages without a matching method signature
+o/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Classes/WorldPhotosAppDelegate.m:25: warning: will be assumed to return 'id' and accept
+o/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Classes/WorldPhotosAppDelegate.m:25: warning: '...' as arguments.)
+lSLF07#2@136"Compile /Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Classes/WorldPhotosAppDelegate.m322881702#322881702#0(954"/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Classes/WorldPhotosAppDelegate.m: In function '-[WorldPhotosAppDelegate application:didFinishLaunchingWithOptions:]':/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Classes/WorldPhotosAppDelegate.m:25: warning: 'WorldPhotosAppDelegate' may not respond to '-createPhotoData'/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Classes/WorldPhotosAppDelegate.m:25: warning: (Messages without a matching method signature/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Classes/WorldPhotosAppDelegate.m:25: warning: will be assumed to return 'id' and accept/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Classes/WorldPhotosAppDelegate.m:25: warning: '...' as arguments.)2(22@62"'WorldPhotosAppDelegate' may not respond to '-createPhotoData'322881702#178#169#0(6@128"/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Classes/WorldPhotosAppDelegate.m320730535#25#0#25#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)322881702#347#152#0(6@128"/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Classes/WorldPhotosAppDelegate.m320730535#25#0#25#0#0"0(0#0#128"/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Classes/WorldPhotosAppDelegate.m8656405248#2687"    cd "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-generated-files.hmap" "-I/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-own-target-headers.hmap" "-I/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-all-target-headers.hmap" -iquote "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-project-headers.hmap" "-F/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/Debug-iphonesimulator" "-I/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/Debug-iphonesimulator/include" "-I/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/DerivedSources/i386" "-I/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/DerivedSources" -include /var/folders/wv/wv7Yk39CFx8db4vQjr2nrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WorldPhotos_Prefix-ekwabxagdmswpdaimmmacuutcmse/WorldPhotos_Prefix.pch -c "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Classes/WorldPhotosAppDelegate.m" -o "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/WorldPhotosAppDelegate.o"0#
+
+CCompileC build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/WorldPhotosAppDelegate.o /Users/tricom7/Documents/InchonTour/Classes/WorldPhotosAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320717392.072122
+e320717392.254546
+r1
+xCompileC
+xbuild/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/WorldPhotosAppDelegate.o
+x/Users/tricom7/Documents/InchonTour/Classes/WorldPhotosAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/tricom7/Documents/InchonTour/Classes/WorldPhotosAppDelegate.m: In function '-[WorldPhotosAppDelegate application:didFinishLaunchingWithOptions:]':
+o/Users/tricom7/Documents/InchonTour/Classes/WorldPhotosAppDelegate.m:25: warning: 'WorldPhotosAppDelegate' may not respond to '-createPhotoData'
+o/Users/tricom7/Documents/InchonTour/Classes/WorldPhotosAppDelegate.m:25: warning: (Messages without a matching method signature
+o/Users/tricom7/Documents/InchonTour/Classes/WorldPhotosAppDelegate.m:25: warning: will be assumed to return 'id' and accept
+o/Users/tricom7/Documents/InchonTour/Classes/WorldPhotosAppDelegate.m:25: warning: '...' as arguments.)
+lSLF07#2@76"Compile /Users/tricom7/Documents/InchonTour/Classes/WorldPhotosAppDelegate.m320717392#320717392#0(654"/Users/tricom7/Documents/InchonTour/Classes/WorldPhotosAppDelegate.m: In function '-[WorldPhotosAppDelegate application:didFinishLaunchingWithOptions:]':/Users/tricom7/Documents/InchonTour/Classes/WorldPhotosAppDelegate.m:25: warning: 'WorldPhotosAppDelegate' may not respond to '-createPhotoData'/Users/tricom7/Documents/InchonTour/Classes/WorldPhotosAppDelegate.m:25: warning: (Messages without a matching method signature/Users/tricom7/Documents/InchonTour/Classes/WorldPhotosAppDelegate.m:25: warning: will be assumed to return 'id' and accept/Users/tricom7/Documents/InchonTour/Classes/WorldPhotosAppDelegate.m:25: warning: '...' as arguments.)2(22@62"'WorldPhotosAppDelegate' may not respond to '-createPhotoData'320717392#154#145#0(6@68"/Users/tricom7/Documents/InchonTour/Classes/WorldPhotosAppDelegate.m320717388#25#0#25#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)320717392#299#128#0(6@68"/Users/tricom7/Documents/InchonTour/Classes/WorldPhotosAppDelegate.m320717388#25#0#25#0#0"0(0#0#68"/Users/tricom7/Documents/InchonTour/Classes/WorldPhotosAppDelegate.m8610482400#2005"    cd /Users/tricom7/Documents/InchonTour    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/tricom7/Documents/InchonTour/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-generated-files.hmap -I/Users/tricom7/Documents/InchonTour/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-own-target-headers.hmap -I/Users/tricom7/Documents/InchonTour/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-all-target-headers.hmap -iquote /Users/tricom7/Documents/InchonTour/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-project-headers.hmap -F/Users/tricom7/Documents/InchonTour/build/Debug-iphonesimulator -I/Users/tricom7/Documents/InchonTour/build/Debug-iphonesimulator/include -I/Users/tricom7/Documents/InchonTour/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/DerivedSources/i386 -I/Users/tricom7/Documents/InchonTour/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/DerivedSources -include /var/folders/wv/wv7Yk39CFx8db4vQjr2nrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WorldPhotos_Prefix-fcjhwegrihoydqfpengpvnbmxvpt/WorldPhotos_Prefix.pch -c /Users/tricom7/Documents/InchonTour/Classes/WorldPhotosAppDelegate.m -o /Users/tricom7/Documents/InchonTour/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/WorldPhotosAppDelegate.o0#
+
+CCompileC build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/WorldPhotosAppDelegate.o /Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319094966.116505
+e319094966.232207
+r1
+xCompileC
+xbuild/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/WorldPhotosAppDelegate.o
+x/Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m: In function '-[WorldPhotosAppDelegate application:didFinishLaunchingWithOptions:]':
+o/Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m:25: warning: 'WorldPhotosAppDelegate' may not respond to '-createPhotoData'
+o/Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m:25: warning: (Messages without a matching method signature
+o/Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m:25: warning: will be assumed to return 'id' and accept
+o/Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m:25: warning: '...' as arguments.)
+lSLF07#2@77"Compile /Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m319094966#319094966#0(659"/Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m: In function '-[WorldPhotosAppDelegate application:didFinishLaunchingWithOptions:]':/Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m:25: warning: 'WorldPhotosAppDelegate' may not respond to '-createPhotoData'/Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m:25: warning: (Messages without a matching method signature/Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m:25: warning: will be assumed to return 'id' and accept/Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m:25: warning: '...' as arguments.)2(22@62"'WorldPhotosAppDelegate' may not respond to '-createPhotoData'319094966#155#146#0(6@69"/Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m313155309#25#0#25#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)319094966#301#129#0(6@69"/Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m313155309#25#0#25#0#0"0(0#0#69"/Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m8656397184#2016"    cd /Users/tricom7/Documents/WorldPhotos    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-generated-files.hmap -I/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-own-target-headers.hmap -I/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-all-target-headers.hmap -iquote /Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-project-headers.hmap -F/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator -I/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/include -I/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/DerivedSources/i386 -I/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/DerivedSources -include /var/folders/wv/wv7Yk39CFx8db4vQjr2nrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WorldPhotos_Prefix-bkguyqmkduwrfiasiyqqdiqdvlog/WorldPhotos_Prefix.pch -c /Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m -o /Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/WorldPhotosAppDelegate.o0#
+
+CCompileC build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/main.o "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s322881702.624235
+e322881702.696537
+r1
+xCompileC
+xbuild/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/main.o
+x/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@110"Compile /Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/main.m322881702#322881702#0(0"0(0#0#102"/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/main.m8657860064#2643"    cd "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-generated-files.hmap" "-I/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-own-target-headers.hmap" "-I/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-all-target-headers.hmap" -iquote "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-project-headers.hmap" "-F/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/Debug-iphonesimulator" "-I/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/Debug-iphonesimulator/include" "-I/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/DerivedSources/i386" "-I/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/DerivedSources" -include /var/folders/wv/wv7Yk39CFx8db4vQjr2nrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WorldPhotos_Prefix-ekwabxagdmswpdaimmmacuutcmse/WorldPhotos_Prefix.pch -c "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/main.m" -o "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/main.o /Users/tricom7/Documents/InchonTour/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320717111.825083
+e320717111.993676
+r1
+xCompileC
+xbuild/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/main.o
+x/Users/tricom7/Documents/InchonTour/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/tricom7/Documents/InchonTour/main.m320717111#320717111#0(0"0(0#0#42"/Users/tricom7/Documents/InchonTour/main.m8606970400#1961"    cd /Users/tricom7/Documents/InchonTour    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/tricom7/Documents/InchonTour/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-generated-files.hmap -I/Users/tricom7/Documents/InchonTour/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-own-target-headers.hmap -I/Users/tricom7/Documents/InchonTour/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-all-target-headers.hmap -iquote /Users/tricom7/Documents/InchonTour/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-project-headers.hmap -F/Users/tricom7/Documents/InchonTour/build/Debug-iphonesimulator -I/Users/tricom7/Documents/InchonTour/build/Debug-iphonesimulator/include -I/Users/tricom7/Documents/InchonTour/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/DerivedSources/i386 -I/Users/tricom7/Documents/InchonTour/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/DerivedSources -include /var/folders/wv/wv7Yk39CFx8db4vQjr2nrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WorldPhotos_Prefix-fcjhwegrihoydqfpengpvnbmxvpt/WorldPhotos_Prefix.pch -c /Users/tricom7/Documents/InchonTour/main.m -o /Users/tricom7/Documents/InchonTour/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/main.o0#
+
+CCompileC build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/main.o /Users/tricom7/Documents/WorldPhotos/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319094966.115142
+e319094966.192528
+r1
+xCompileC
+xbuild/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/main.o
+x/Users/tricom7/Documents/WorldPhotos/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/tricom7/Documents/WorldPhotos/main.m319094966#319094966#0(0"0(0#0#43"/Users/tricom7/Documents/WorldPhotos/main.m8672886176#1972"    cd /Users/tricom7/Documents/WorldPhotos    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-generated-files.hmap -I/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-own-target-headers.hmap -I/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-all-target-headers.hmap -iquote /Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-project-headers.hmap -F/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator -I/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/include -I/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/DerivedSources/i386 -I/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/DerivedSources -include /var/folders/wv/wv7Yk39CFx8db4vQjr2nrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WorldPhotos_Prefix-bkguyqmkduwrfiasiyqqdiqdvlog/WorldPhotos_Prefix.pch -c /Users/tricom7/Documents/WorldPhotos/main.m -o /Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/main.o0#
+
+CCompileXIB "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Classes/PhotoDetailViewController.xib"
+r0
+
+CCompileXIB "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/Classes/PhotoMapViewController.xib"
+r0
+
+CCompileXIB "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/PhotoTableCell.xib"
+r0
+
+CCompileXIB "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/RootViewController.xib"
+r0
+
+CCompileXIB /Users/tricom7/Documents/InchonTour/Classes/PhotoDetailViewController.xib
+r0
+
+CCompileXIB /Users/tricom7/Documents/InchonTour/Classes/PhotoMapViewController.xib
+r0
+
+CCompileXIB /Users/tricom7/Documents/InchonTour/MainWindow.xib
+r0
+
+CCompileXIB /Users/tricom7/Documents/InchonTour/PhotoTableCell.xib
+s320717612.027577
+e320717613.121223
+r1
+xCompileXIB
+x/Users/tricom7/Documents/InchonTour/PhotoTableCell.xib
+lSLF07#2@29"CompileXIB PhotoTableCell.xib320717612#320717613#0(0"0(0#0#54"/Users/tricom7/Documents/InchonTour/PhotoTableCell.xib8610334432#573"    cd /Users/tricom7/Documents/InchonTour    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/tricom7/Documents/InchonTour/build/Debug-iphonesimulator/WorldPhotos.app/PhotoTableCell.nib /Users/tricom7/Documents/InchonTour/PhotoTableCell.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/tricom7/Documents/InchonTour/RootViewController.xib
+r0
+
+CCompileXIB /Users/tricom7/Documents/WorldPhotos/Classes/PhotoDetailViewController.xib
+s316418592.813479
+e316418593.232987
+r1
+xCompileXIB
+x/Users/tricom7/Documents/WorldPhotos/Classes/PhotoDetailViewController.xib
+lSLF07#2@48"CompileXIB Classes/PhotoDetailViewController.xib316418592#316418593#0(0"0(0#0#74"/Users/tricom7/Documents/WorldPhotos/Classes/PhotoDetailViewController.xib8600816192#606"    cd /Users/tricom7/Documents/WorldPhotos    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app/PhotoDetailViewController.nib /Users/tricom7/Documents/WorldPhotos/Classes/PhotoDetailViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/tricom7/Documents/WorldPhotos/Classes/PhotoMapViewController.xib
+s316418592.902793
+e316418593.680187
+r1
+xCompileXIB
+x/Users/tricom7/Documents/WorldPhotos/Classes/PhotoMapViewController.xib
+o2011-01-11 15:03:13.512 Interface Builder Cocoa Touch Tool[639:5403] /SourceCache/GoogleMobileMaps_Sim/GoogleMobileMaps-263.5/googlenav/mac/TileStore.mm:189  WARNING:  database is incorrect version (expected:11, actual:10) (locale:en_US actual:en_US) /Users/tricom7/Library/Application Support/iPhone Simulator/User/Library/Caches/MapTiles/MapTiles.128.LoDPI.sqlitedb
+lSLF07#2@45"CompileXIB Classes/PhotoMapViewController.xib316418592#316418593#0(368"2011-01-11 15:03:13.512 Interface Builder Cocoa Touch Tool[639:5403] /SourceCache/GoogleMobileMaps_Sim/GoogleMobileMaps-263.5/googlenav/mac/TileStore.mm:189  WARNING:  database is incorrect version (expected:11, actual:10) (locale:en_US actual:en_US) /Users/tricom7/Library/Application Support/iPhone Simulator/User/Library/Caches/MapTiles/MapTiles.128.LoDPI.sqlitedb0(0#0#71"/Users/tricom7/Documents/WorldPhotos/Classes/PhotoMapViewController.xib8616228544#600"    cd /Users/tricom7/Documents/WorldPhotos    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app/PhotoMapViewController.nib /Users/tricom7/Documents/WorldPhotos/Classes/PhotoMapViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/tricom7/Documents/WorldPhotos/MainWindow.xib
+s316418592.283153
+e316418592.865089
+r1
+xCompileXIB
+x/Users/tricom7/Documents/WorldPhotos/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib316418592#316418592#0(0"0(0#0#51"/Users/tricom7/Documents/WorldPhotos/MainWindow.xib8614118240#568"    cd /Users/tricom7/Documents/WorldPhotos    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app/MainWindow.nib /Users/tricom7/Documents/WorldPhotos/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/tricom7/Documents/WorldPhotos/PhotoTableCell.xib
+s316418593.233074
+e316418593.694876
+r1
+xCompileXIB
+x/Users/tricom7/Documents/WorldPhotos/PhotoTableCell.xib
+lSLF07#2@29"CompileXIB PhotoTableCell.xib316418593#316418593#0(0"0(0#0#55"/Users/tricom7/Documents/WorldPhotos/PhotoTableCell.xib8606889600#576"    cd /Users/tricom7/Documents/WorldPhotos    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app/PhotoTableCell.nib /Users/tricom7/Documents/WorldPhotos/PhotoTableCell.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/tricom7/Documents/WorldPhotos/RootViewController.xib
+s316418592.283829
+e316418592.804104
+r1
+xCompileXIB
+x/Users/tricom7/Documents/WorldPhotos/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib316418592#316418592#0(0"0(0#0#59"/Users/tricom7/Documents/WorldPhotos/RootViewController.xib8609263936#584"    cd /Users/tricom7/Documents/WorldPhotos    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app/RootViewController.nib /Users/tricom7/Documents/WorldPhotos/RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/WorldPhotos.app/Africa_Morocco_1.jpg Africa_Morocco_1.jpg
+s316418592.804965
+e316418592.901586
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WorldPhotos.app/Africa_Morocco_1.jpg
+xAfrica_Morocco_1.jpg
+lSLF07#2@25"Copy Africa_Morocco_1.jpg316418592#316418592#0(0"0(0#0#57"/Users/tricom7/Documents/WorldPhotos/Africa_Morocco_1.jpg8603766048#476"    cd /Users/tricom7/Documents/WorldPhotos    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/tricom7/Documents/WorldPhotos/Africa_Morocco_1.jpg /Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app0#
+
+CCpResource build/Debug-iphonesimulator/WorldPhotos.app/Africa_Morocco_1_thumbnail.jpg Africa_Morocco_1_thumbnail.jpg
+s316418592.804195
+e316418592.831284
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WorldPhotos.app/Africa_Morocco_1_thumbnail.jpg
+xAfrica_Morocco_1_thumbnail.jpg
+lSLF07#2@35"Copy Africa_Morocco_1_thumbnail.jpg316418592#316418592#0(0"0(0#0#67"/Users/tricom7/Documents/WorldPhotos/Africa_Morocco_1_thumbnail.jpg8604086496#486"    cd /Users/tricom7/Documents/WorldPhotos    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/tricom7/Documents/WorldPhotos/Africa_Morocco_1_thumbnail.jpg /Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app0#
+
+CCpResource build/Debug-iphonesimulator/WorldPhotos.app/Asia_Japan_1.jpg Asia_Japan_1.jpg
+s316418592.808345
+e316418592.902716
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WorldPhotos.app/Asia_Japan_1.jpg
+xAsia_Japan_1.jpg
+lSLF07#2@21"Copy Asia_Japan_1.jpg316418592#316418592#0(0"0(0#0#53"/Users/tricom7/Documents/WorldPhotos/Asia_Japan_1.jpg8601826176#472"    cd /Users/tricom7/Documents/WorldPhotos    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/tricom7/Documents/WorldPhotos/Asia_Japan_1.jpg /Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app0#
+
+CCpResource build/Debug-iphonesimulator/WorldPhotos.app/Asia_Japan_1_thumbnail.jpg Asia_Japan_1_thumbnail.jpg
+s316418592.806602
+e316418592.836909
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WorldPhotos.app/Asia_Japan_1_thumbnail.jpg
+xAsia_Japan_1_thumbnail.jpg
+lSLF07#2@31"Copy Asia_Japan_1_thumbnail.jpg316418592#316418592#0(0"0(0#0#63"/Users/tricom7/Documents/WorldPhotos/Asia_Japan_1_thumbnail.jpg8602381856#482"    cd /Users/tricom7/Documents/WorldPhotos    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/tricom7/Documents/WorldPhotos/Asia_Japan_1_thumbnail.jpg /Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app0#
+
+CCpResource build/Debug-iphonesimulator/WorldPhotos.app/Europe_Swiss_1.jpg Europe_Swiss_1.jpg
+s316418592.811746
+e316418592.900383
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WorldPhotos.app/Europe_Swiss_1.jpg
+xEurope_Swiss_1.jpg
+lSLF07#2@23"Copy Europe_Swiss_1.jpg316418592#316418592#0(0"0(0#0#55"/Users/tricom7/Documents/WorldPhotos/Europe_Swiss_1.jpg8601142304#474"    cd /Users/tricom7/Documents/WorldPhotos    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/tricom7/Documents/WorldPhotos/Europe_Swiss_1.jpg /Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app0#
+
+CCpResource build/Debug-iphonesimulator/WorldPhotos.app/Europe_Swiss_1_thumbnail.jpg Europe_Swiss_1_thumbnail.jpg
+s316418592.810063
+e316418592.843178
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WorldPhotos.app/Europe_Swiss_1_thumbnail.jpg
+xEurope_Swiss_1_thumbnail.jpg
+lSLF07#2@33"Copy Europe_Swiss_1_thumbnail.jpg316418592#316418592#0(0"0(0#0#65"/Users/tricom7/Documents/WorldPhotos/Europe_Swiss_1_thumbnail.jpg8601442016#484"    cd /Users/tricom7/Documents/WorldPhotos    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/tricom7/Documents/WorldPhotos/Europe_Swiss_1_thumbnail.jpg /Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app0#
+
+CGenerateDSYMFile "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/Debug-iphonesimulator/WorldPhotos.app.dSYM" "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/Debug-iphonesimulator/WorldPhotos.app/WorldPhotos"
+s322881702.936705
+e322881703.024436
+r1
+xGenerateDSYMFile
+x/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/Debug-iphonesimulator/WorldPhotos.app.dSYM
+x/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/Debug-iphonesimulator/WorldPhotos.app/WorldPhotos
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/WorldPhotos.app.dSYM build/Debug-iphonesimulator/WorldPhotos.app/WorldPhotos322881702#322881703#0(0"0(0#0#151"/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/Debug-iphonesimulator/WorldPhotos.app/WorldPhotos8651850080#572"    cd "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/Debug-iphonesimulator/WorldPhotos.app/WorldPhotos" -o "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/Debug-iphonesimulator/WorldPhotos.app.dSYM"0#
+
+CGenerateDSYMFile /Users/tricom7/Documents/InchonTour/build/Debug-iphonesimulator/WorldPhotos.app.dSYM /Users/tricom7/Documents/InchonTour/build/Debug-iphonesimulator/WorldPhotos.app/WorldPhotos
+s320717392.286643
+e320717392.308345
+r1
+xGenerateDSYMFile
+x/Users/tricom7/Documents/InchonTour/build/Debug-iphonesimulator/WorldPhotos.app.dSYM
+x/Users/tricom7/Documents/InchonTour/build/Debug-iphonesimulator/WorldPhotos.app/WorldPhotos
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/WorldPhotos.app.dSYM build/Debug-iphonesimulator/WorldPhotos.app/WorldPhotos320717392#320717392#0(0"0(0#0#91"/Users/tricom7/Documents/InchonTour/build/Debug-iphonesimulator/WorldPhotos.app/WorldPhotos8610648032#386"    cd /Users/tricom7/Documents/InchonTour    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/tricom7/Documents/InchonTour/build/Debug-iphonesimulator/WorldPhotos.app/WorldPhotos -o /Users/tricom7/Documents/InchonTour/build/Debug-iphonesimulator/WorldPhotos.app.dSYM0#
+
+CGenerateDSYMFile /Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app.dSYM /Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app/WorldPhotos
+s319094966.678588
+e319094966.736790
+r1
+xGenerateDSYMFile
+x/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app.dSYM
+x/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app/WorldPhotos
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/WorldPhotos.app.dSYM build/Debug-iphonesimulator/WorldPhotos.app/WorldPhotos319094966#319094966#0(0"0(0#0#92"/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app/WorldPhotos8685791936#389"    cd /Users/tricom7/Documents/WorldPhotos    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app/WorldPhotos -o /Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app.dSYM0#
+
+CLd "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/Debug-iphonesimulator/WorldPhotos.app/WorldPhotos" normal i386
+s322881702.881243
+e322881702.936578
+r1
+xLd
+x/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/Debug-iphonesimulator/WorldPhotos.app/WorldPhotos
+xnormal
+xi386
+lSLF07#2@156"Link /Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/Debug-iphonesimulator/WorldPhotos.app/WorldPhotos322881702#322881702#0(0"0(0#0#0"8659207776#1257"    cd "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/Debug-iphonesimulator" "-F/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/Debug-iphonesimulator" -filelist "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/WorldPhotos.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreLocation -framework MapKit -o "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/Debug-iphonesimulator/WorldPhotos.app/WorldPhotos"0#
+
+CLd /Users/tricom7/Documents/InchonTour/build/Debug-iphonesimulator/WorldPhotos.app/WorldPhotos normal i386
+s320717392.254649
+e320717392.286533
+r1
+xLd
+x/Users/tricom7/Documents/InchonTour/build/Debug-iphonesimulator/WorldPhotos.app/WorldPhotos
+xnormal
+xi386
+lSLF07#2@96"Link /Users/tricom7/Documents/InchonTour/build/Debug-iphonesimulator/WorldPhotos.app/WorldPhotos320717392#320717392#0(0"0(0#0#0"8610981280#947"    cd /Users/tricom7/Documents/InchonTour    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/tricom7/Documents/InchonTour/build/Debug-iphonesimulator -F/Users/tricom7/Documents/InchonTour/build/Debug-iphonesimulator -filelist /Users/tricom7/Documents/InchonTour/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/WorldPhotos.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreLocation -framework MapKit -o /Users/tricom7/Documents/InchonTour/build/Debug-iphonesimulator/WorldPhotos.app/WorldPhotos0#
+
+CLd /Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app/WorldPhotos normal i386
+s319094966.393507
+e319094966.678389
+r1
+xLd
+x/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app/WorldPhotos
+xnormal
+xi386
+lSLF07#2@97"Link /Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app/WorldPhotos319094966#319094966#0(0"0(0#0#0"8683634048#952"    cd /Users/tricom7/Documents/WorldPhotos    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator -F/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator -filelist /Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/WorldPhotos.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreLocation -framework MapKit -o /Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app/WorldPhotos0#
+
+CProcessInfoPlistFile "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/Debug-iphonesimulator/WorldPhotos.app/Info.plist" WorldPhotos-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/tricom7/Documents/InchonTour/build/Debug-iphonesimulator/WorldPhotos.app/Info.plist WorldPhotos-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app/Info.plist WorldPhotos-Info.plist
+s316418592.256493
+e316418592.283070
+r1
+xProcessInfoPlistFile
+x/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app/Info.plist
+xWorldPhotos-Info.plist
+lSLF07#2@30"Process WorldPhotos-Info.plist316418592#316418592#0(0"0(0#0#59"/Users/tricom7/Documents/WorldPhotos/WorldPhotos-Info.plist8598711616#485"    cd /Users/tricom7/Documents/WorldPhotos    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility WorldPhotos-Info.plist -genpkginfo /Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app/Info.plist0#
+
+CProcessPCH /var/folders/wv/wv7Yk39CFx8db4vQjr2nrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WorldPhotos_Prefix-bkguyqmkduwrfiasiyqqdiqdvlog/WorldPhotos_Prefix.pch.gch WorldPhotos_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s319094965.169820
+e319094966.115008
+r1
+xProcessPCH
+x/var/folders/wv/wv7Yk39CFx8db4vQjr2nrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WorldPhotos_Prefix-bkguyqmkduwrfiasiyqqdiqdvlog/WorldPhotos_Prefix.pch.gch
+xWorldPhotos_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile WorldPhotos_Prefix.pch319094965#319094966#0(0"0(0#0#59"/Users/tricom7/Documents/WorldPhotos/WorldPhotos_Prefix.pch8686484192#1862"    cd /Users/tricom7/Documents/WorldPhotos    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-generated-files.hmap -I/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-own-target-headers.hmap -I/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-all-target-headers.hmap -iquote /Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-project-headers.hmap -F/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator -I/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/include -I/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/DerivedSources/i386 -I/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/DerivedSources -c /Users/tricom7/Documents/WorldPhotos/WorldPhotos_Prefix.pch -o /var/folders/wv/wv7Yk39CFx8db4vQjr2nrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WorldPhotos_Prefix-bkguyqmkduwrfiasiyqqdiqdvlog/WorldPhotos_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/wv/wv7Yk39CFx8db4vQjr2nrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WorldPhotos_Prefix-ekwabxagdmswpdaimmmacuutcmse/WorldPhotos_Prefix.pch.gch WorldPhotos_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s322881696.743595
+e322881702.624051
+r1
+xProcessPCH
+x/var/folders/wv/wv7Yk39CFx8db4vQjr2nrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WorldPhotos_Prefix-ekwabxagdmswpdaimmmacuutcmse/WorldPhotos_Prefix.pch.gch
+xWorldPhotos_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile WorldPhotos_Prefix.pch322881696#322881702#0(0"0(0#0#118"/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/WorldPhotos_Prefix.pch8647827488#2472"    cd "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-generated-files.hmap" "-I/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-own-target-headers.hmap" "-I/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-all-target-headers.hmap" -iquote "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-project-headers.hmap" "-F/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/Debug-iphonesimulator" "-I/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/Debug-iphonesimulator/include" "-I/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/DerivedSources/i386" "-I/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/DerivedSources" -c "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/WorldPhotos_Prefix.pch" -o /var/folders/wv/wv7Yk39CFx8db4vQjr2nrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WorldPhotos_Prefix-ekwabxagdmswpdaimmmacuutcmse/WorldPhotos_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/wv/wv7Yk39CFx8db4vQjr2nrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WorldPhotos_Prefix-fcjhwegrihoydqfpengpvnbmxvpt/WorldPhotos_Prefix.pch.gch WorldPhotos_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s320717110.395968
+e320717111.824877
+r1
+xProcessPCH
+x/var/folders/wv/wv7Yk39CFx8db4vQjr2nrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WorldPhotos_Prefix-fcjhwegrihoydqfpengpvnbmxvpt/WorldPhotos_Prefix.pch.gch
+xWorldPhotos_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile WorldPhotos_Prefix.pch320717110#320717111#0(0"0(0#0#58"/Users/tricom7/Documents/InchonTour/WorldPhotos_Prefix.pch8031166529324477440#1852"    cd /Users/tricom7/Documents/InchonTour    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/tricom7/Documents/InchonTour/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-generated-files.hmap -I/Users/tricom7/Documents/InchonTour/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-own-target-headers.hmap -I/Users/tricom7/Documents/InchonTour/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-all-target-headers.hmap -iquote /Users/tricom7/Documents/InchonTour/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-project-headers.hmap -F/Users/tricom7/Documents/InchonTour/build/Debug-iphonesimulator -I/Users/tricom7/Documents/InchonTour/build/Debug-iphonesimulator/include -I/Users/tricom7/Documents/InchonTour/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/DerivedSources/i386 -I/Users/tricom7/Documents/InchonTour/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/DerivedSources -c /Users/tricom7/Documents/InchonTour/WorldPhotos_Prefix.pch -o /var/folders/wv/wv7Yk39CFx8db4vQjr2nrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WorldPhotos_Prefix-fcjhwegrihoydqfpengpvnbmxvpt/WorldPhotos_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/wv/wv7Yk39CFx8db4vQjr2nrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WorldPhotos_Prefix-gkgjbggtvulaejfwpyaprxmrzwxj/WorldPhotos_Prefix.pch.gch WorldPhotos_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s313127375.235176
+e313127376.743859
+r1
+xProcessPCH
+x/var/folders/wv/wv7Yk39CFx8db4vQjr2nrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WorldPhotos_Prefix-gkgjbggtvulaejfwpyaprxmrzwxj/WorldPhotos_Prefix.pch.gch
+xWorldPhotos_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile WorldPhotos_Prefix.pch313127375#313127376#0(0"0(0#0#59"/Users/tricom7/Documents/WorldPhotos/WorldPhotos_Prefix.pch8616058272#1862"    cd /Users/tricom7/Documents/WorldPhotos    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-generated-files.hmap -I/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-own-target-headers.hmap -I/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-all-target-headers.hmap -iquote /Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-project-headers.hmap -F/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator -I/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/include -I/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/DerivedSources/i386 -I/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/DerivedSources -c /Users/tricom7/Documents/WorldPhotos/WorldPhotos_Prefix.pch -o /var/folders/wv/wv7Yk39CFx8db4vQjr2nrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WorldPhotos_Prefix-gkgjbggtvulaejfwpyaprxmrzwxj/WorldPhotos_Prefix.pch.gch0#
+
+CTouch "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/Debug-iphonesimulator/WorldPhotos.app"
+s322881703.024547
+e322881703.027747
+r1
+xTouch
+x/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/Debug-iphonesimulator/WorldPhotos.app
+lSLF07#2@145"Touch /Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/Debug-iphonesimulator/WorldPhotos.app322881703#322881703#0(0"0(0#0#0"8656697088#400"    cd "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/tricom7/Documents/XCODE PROJECTS/서울의 채식식당/build/Debug-iphonesimulator/WorldPhotos.app"0#
+
+CTouch /Users/tricom7/Documents/InchonTour/build/Debug-iphonesimulator/WorldPhotos.app
+s320717613.122114
+e320717613.148626
+r1
+xTouch
+x/Users/tricom7/Documents/InchonTour/build/Debug-iphonesimulator/WorldPhotos.app
+lSLF07#2@85"Touch /Users/tricom7/Documents/InchonTour/build/Debug-iphonesimulator/WorldPhotos.app320717613#320717613#0(0"0(0#0#0"8610767456#276"    cd /Users/tricom7/Documents/InchonTour    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/tricom7/Documents/InchonTour/build/Debug-iphonesimulator/WorldPhotos.app0#
+
+CTouch /Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app
+s319094966.736901
+e319094966.740014
+r1
+xTouch
+x/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app
+lSLF07#2@86"Touch /Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app319094966#319094966#0(0"0(0#0#0"8682365376#278"    cd /Users/tricom7/Documents/WorldPhotos    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app0#
+

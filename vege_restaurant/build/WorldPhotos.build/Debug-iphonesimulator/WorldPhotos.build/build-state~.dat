@@ -1,0 +1,434 @@
+TWorldPhotos
+v7
+r0
+t313127376.973474
+cCheck dependencies
+cProcessInfoPlistFile /Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app/Info.plist WorldPhotos-Info.plist
+cCompileXIB /Users/tricom7/Documents/WorldPhotos/MainWindow.xib
+cCompileXIB /Users/tricom7/Documents/WorldPhotos/RootViewController.xib
+cCpResource build/Debug-iphonesimulator/WorldPhotos.app/Africa_Morocco_1_thumbnail.jpg Africa_Morocco_1_thumbnail.jpg
+cCpResource build/Debug-iphonesimulator/WorldPhotos.app/Africa_Morocco_1.jpg Africa_Morocco_1.jpg
+cCpResource build/Debug-iphonesimulator/WorldPhotos.app/Asia_Japan_1_thumbnail.jpg Asia_Japan_1_thumbnail.jpg
+cCpResource build/Debug-iphonesimulator/WorldPhotos.app/Asia_Japan_1.jpg Asia_Japan_1.jpg
+cCpResource build/Debug-iphonesimulator/WorldPhotos.app/Europe_Swiss_1_thumbnail.jpg Europe_Swiss_1_thumbnail.jpg
+cCpResource build/Debug-iphonesimulator/WorldPhotos.app/Europe_Swiss_1.jpg Europe_Swiss_1.jpg
+cProcessPCH /var/folders/wv/wv7Yk39CFx8db4vQjr2nrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WorldPhotos_Prefix-gkgjbggtvulaejfwpyaprxmrzwxj/WorldPhotos_Prefix.pch.gch WorldPhotos_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/main.o /Users/tricom7/Documents/WorldPhotos/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/WorldPhotosAppDelegate.o /Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/RootViewController.o /Users/tricom7/Documents/WorldPhotos/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004C6C2FF1000000000006B7E0
+t1282158577
+s440288
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004C6C2FEA00000000000001D0
+t1282158570
+s464
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004C6C303B000000000016DD50
+t1282158651
+s1498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/Availability.h
+c000000004C57A0390000000000001A5C
+t1280811065
+s6748
+
+N/Users/tricom7/Documents/WorldPhotos/Africa_Morocco_1.jpg
+c000000004944AE60000000000007A05A
+t1229237856
+s499802
+
+N/Users/tricom7/Documents/WorldPhotos/Africa_Morocco_1_thumbnail.jpg
+c000000004A700A46000000000000411F
+t1248856646
+s16671
+
+N/Users/tricom7/Documents/WorldPhotos/Asia_Japan_1.jpg
+c00000000492D7206000000000007C2FE
+t1227715078
+s508670
+
+N/Users/tricom7/Documents/WorldPhotos/Asia_Japan_1_thumbnail.jpg
+c000000004A700A580000000000003F12
+t1248856664
+s16146
+
+N/Users/tricom7/Documents/WorldPhotos/Classes/RootViewController.h
+c000000004CF8DEF700000000000000EF
+t1291378423
+s239
+i<UIKit/UIKit.h>
+
+N/Users/tricom7/Documents/WorldPhotos/Classes/RootViewController.m
+c000000004CF8DEF700000000000010C7
+t1291378423
+s4295
+i"RootViewController.h"
+
+N/Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.h
+c000000004CF9B7260000000000000222
+t1291433766
+s546
+i<UIKit/UIKit.h>
+
+N/Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m
+c000000004CF9BA4E00000000000010DB
+t1291434574
+s4315
+i"WorldPhotosAppDelegate.h"
+i"RootViewController.h"
+i<CoreLocation/CoreLocation.h>
+
+N/Users/tricom7/Documents/WorldPhotos/Europe_Swiss_1.jpg
+c00000000494F5B79000000000007D03C
+t1229937529
+s512060
+
+N/Users/tricom7/Documents/WorldPhotos/Europe_Swiss_1_thumbnail.jpg
+c000000004A700A6E00000000000041A8
+t1248856686
+s16808
+
+N/Users/tricom7/Documents/WorldPhotos/MainWindow.xib
+c000000004CF8DEF70000000000006004
+t1291378423
+s24580
+
+N/Users/tricom7/Documents/WorldPhotos/RootViewController.xib
+c000000004CF8DEF70000000000004456
+t1291378423
+s17494
+
+N/Users/tricom7/Documents/WorldPhotos/WorldPhotos_Prefix.pch
+c000000004CF8DEF70000000000000148
+t1291378423
+s328
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app
+t2
+s0
+
+N/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app.dSYM
+t2
+s0
+
+N/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app/Africa_Morocco_1.jpg
+t1291434575
+s499802
+
+N/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app/Africa_Morocco_1_thumbnail.jpg
+t1291434575
+s16671
+
+N/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app/Asia_Japan_1.jpg
+t1291434575
+s508670
+
+N/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app/Asia_Japan_1_thumbnail.jpg
+t1291434575
+s16146
+
+N/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app/Europe_Swiss_1.jpg
+t1291434575
+s512060
+
+N/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app/Europe_Swiss_1_thumbnail.jpg
+t1291434575
+s16808
+
+N/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app/Info.plist
+t1291434574
+s607
+
+N/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app/MainWindow.nib
+t1291434575
+s2460
+
+N/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app/PkgInfo
+t1291434574
+s8
+
+N/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app/RootViewController.nib
+t1291434575
+s1518
+
+N/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app/WorldPhotos
+t2
+s0
+
+N/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/RootViewController.o
+t1291434576
+s38108
+
+N/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/WorldPhotos.LinkFileList
+c000000004CF9BA4E00000000000001A0
+t1291434574
+s416
+
+N/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/WorldPhotosAppDelegate.o
+t2
+s0
+
+N/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/main.o
+t1291434576
+s6300
+
+N/Users/tricom7/Documents/WorldPhotos/main.m
+c000000004CF8DEF7000000000000016D
+t1291378423
+s365
+i<UIKit/UIKit.h>
+
+N/var/folders/wv/wv7Yk39CFx8db4vQjr2nrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WorldPhotos_Prefix-gkgjbggtvulaejfwpyaprxmrzwxj/WorldPhotos_Prefix.pch.gch
+t1291434576
+s15211536
+
+NWorldPhotos-Info.plist
+c000000004CF8DEF7000000000000038D
+t1291378423
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies313127374#313127374#0(0"0(0#1#0"32651522506817640#0"0#
+
+CCompileC build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/RootViewController.o /Users/tricom7/Documents/WorldPhotos/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313127376.910397
+e313127376.973377
+r1
+xCompileC
+xbuild/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/RootViewController.o
+x/Users/tricom7/Documents/WorldPhotos/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/tricom7/Documents/WorldPhotos/Classes/RootViewController.m313127376#313127376#0(0"0(0#0#65"/Users/tricom7/Documents/WorldPhotos/Classes/RootViewController.m8613660704#2008"    cd /Users/tricom7/Documents/WorldPhotos    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-generated-files.hmap -I/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-own-target-headers.hmap -I/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-all-target-headers.hmap -iquote /Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-project-headers.hmap -F/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator -I/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/include -I/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/DerivedSources/i386 -I/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/DerivedSources -include /var/folders/wv/wv7Yk39CFx8db4vQjr2nrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WorldPhotos_Prefix-gkgjbggtvulaejfwpyaprxmrzwxj/WorldPhotos_Prefix.pch -c /Users/tricom7/Documents/WorldPhotos/Classes/RootViewController.m -o /Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/WorldPhotosAppDelegate.o /Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313127376.745586
+e313127376.910247
+r0
+xCompileC
+xbuild/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/WorldPhotosAppDelegate.o
+x/Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m: In function '-[WorldPhotosAppDelegate application:didFinishLaunchingWithOptions:]':
+o/Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m:26: warning: 'WorldPhotosAppDelegate' may not respond to '-createPhotoData'
+o/Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m:26: warning: (Messages without a matching method signature
+o/Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m:26: warning: will be assumed to return 'id' and accept
+o/Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m:26: warning: '...' as arguments.)
+o/Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m: In function '-[WorldPhotosAppDelegate createPhotoData]':
+o/Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m:100: error: 'nail' undeclared (first use in this function)
+o/Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m:100: error: (Each undeclared identifier is reported only once
+o/Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m:100: error: for each function it appears in.)
+o/Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m:100: warning: missing sentinel in function call
+o/Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m:106: warning: missing sentinel in function call
+o/Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m:112: warning: missing sentinel in function call
+o{standard input}:272:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000002$pb"
+o{standard input}:272:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+o{standard input}:268:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_1" minus "L00000000002$pb"
+o{standard input}:268:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_1" can't be undefined in a subtraction expression
+o{standard input}:260:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000002$pb"
+o{standard input}:260:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+o{standard input}:254:non-relocatable subtraction expression, "L_OBJC_IVAR_$_WorldPhotosAppDelegate.window$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:254:symbol: "L_OBJC_IVAR_$_WorldPhotosAppDelegate.window$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:247:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000002$pb"
+o{standard input}:247:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+o{standard input}:241:non-relocatable subtraction expression, "L_OBJC_IVAR_$_WorldPhotosAppDelegate.navigationController$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:241:symbol: "L_OBJC_IVAR_$_WorldPhotosAppDelegate.navigationController$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:234:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000002$pb"
+o{standard input}:234:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+o{standard input}:228:non-relocatable subtraction expression, "L_OBJC_IVAR_$_WorldPhotosAppDelegate.photoArray$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:228:symbol: "L_OBJC_IVAR_$_WorldPhotosAppDelegate.photoArray$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:118:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"
+o{standard input}:118:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:112:non-relocatable subtraction expression, "L_OBJC_IVAR_$_WorldPhotosAppDelegate.window$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:112:symbol: "L_OBJC_IVAR_$_WorldPhotosAppDelegate.window$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:104:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"
+o{standard input}:104:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:98:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000001$pb"
+o{standard input}:98:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+o{standard input}:92:non-relocatable subtraction expression, "L_OBJC_IVAR_$_WorldPhotosAppDelegate.navigationController$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:92:symbol: "L_OBJC_IVAR_$_WorldPhotosAppDelegate.navigationController$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:85:non-relocatable subtraction expression, "L_OBJC_IVAR_$_WorldPhotosAppDelegate.window$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:85:symbol: "L_OBJC_IVAR_$_WorldPhotosAppDelegate.window$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:76:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"
+o{standard input}:76:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:70:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
+o{standard input}:70:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:63:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+o{standard input}:63:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:60:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_0" minus "L00000000001$pb"
+o{standard input}:60:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_0" can't be undefined in a subtraction expression
+o{standard input}:55:non-relocatable subtraction expression, "L_OBJC_IVAR_$_WorldPhotosAppDelegate.photoArray$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:55:symbol: "L_OBJC_IVAR_$_WorldPhotosAppDelegate.photoArray$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_WorldPhotosAppDelegate.photoArray$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_WorldPhotosAppDelegate.window$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_WorldPhotosAppDelegate.navigationController$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7
+lSLF07#2@77"Compile /Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m313127376#313127376#0(7318"/Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m: In function '-[WorldPhotosAppDelegate application:didFinishLaunchingWithOptions:]':/Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m:26: warning: 'WorldPhotosAppDelegate' may not respond to '-createPhotoData'/Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m:26: warning: (Messages without a matching method signature/Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m:26: warning: will be assumed to return 'id' and accept/Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m:26: warning: '...' as arguments.)/Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m: In function '-[WorldPhotosAppDelegate createPhotoData]':/Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m:100: error: 'nail' undeclared (first use in this function)/Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m:100: error: (Each undeclared identifier is reported only once/Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m:100: error: for each function it appears in.)/Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m:100: warning: missing sentinel in function call/Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m:106: warning: missing sentinel in function call/Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m:112: warning: missing sentinel in function call{standard input}:272:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000002$pb"{standard input}:272:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression{standard input}:268:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_1" minus "L00000000002$pb"{standard input}:268:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_1" can't be undefined in a subtraction expression{standard input}:260:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000002$pb"{standard input}:260:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression{standard input}:254:non-relocatable subtraction expression, "L_OBJC_IVAR_$_WorldPhotosAppDelegate.window$non_lazy_ptr" minus "L00000000002$pb"{standard input}:254:symbol: "L_OBJC_IVAR_$_WorldPhotosAppDelegate.window$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:247:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000002$pb"{standard input}:247:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression{standard input}:241:non-relocatable subtraction expression, "L_OBJC_IVAR_$_WorldPhotosAppDelegate.navigationController$non_lazy_ptr" minus "L00000000002$pb"{standard input}:241:symbol: "L_OBJC_IVAR_$_WorldPhotosAppDelegate.navigationController$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:234:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000002$pb"{standard input}:234:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression{standard input}:228:non-relocatable subtraction expression, "L_OBJC_IVAR_$_WorldPhotosAppDelegate.photoArray$non_lazy_ptr" minus "L00000000002$pb"{standard input}:228:symbol: "L_OBJC_IVAR_$_WorldPhotosAppDelegate.photoArray$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:118:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"{standard input}:118:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:112:non-relocatable subtraction expression, "L_OBJC_IVAR_$_WorldPhotosAppDelegate.window$non_lazy_ptr" minus "L00000000001$pb"{standard input}:112:symbol: "L_OBJC_IVAR_$_WorldPhotosAppDelegate.window$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:104:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"{standard input}:104:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:98:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000001$pb"{standard input}:98:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression{standard input}:92:non-relocatable subtraction expression, "L_OBJC_IVAR_$_WorldPhotosAppDelegate.navigationController$non_lazy_ptr" minus "L00000000001$pb"{standard input}:92:symbol: "L_OBJC_IVAR_$_WorldPhotosAppDelegate.navigationController$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:85:non-relocatable subtraction expression, "L_OBJC_IVAR_$_WorldPhotosAppDelegate.window$non_lazy_ptr" minus "L00000000001$pb"{standard input}:85:symbol: "L_OBJC_IVAR_$_WorldPhotosAppDelegate.window$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:76:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"{standard input}:76:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:70:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"{standard input}:70:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:63:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:63:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:60:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_0" minus "L00000000001$pb"{standard input}:60:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_0" can't be undefined in a subtraction expression{standard input}:55:non-relocatable subtraction expression, "L_OBJC_IVAR_$_WorldPhotosAppDelegate.photoArray$non_lazy_ptr" minus "L00000000001$pb"{standard input}:55:symbol: "L_OBJC_IVAR_$_WorldPhotosAppDelegate.photoArray$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_WorldPhotosAppDelegate.photoArray$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_WorldPhotosAppDelegate.window$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_WorldPhotosAppDelegate.navigationController$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_76(22@62"'WorldPhotosAppDelegate' may not respond to '-createPhotoData'313127376#155#146#0(6@69"/Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m313127374#26#0#26#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)313127376#301#129#0(6@69"/Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m313127374#26#0#26#0#0"0(4@46"'nail' undeclared (first use in this function)313127376#787#129#0(6@69"/Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m313127374#100#0#100#0#43"'*' undeclared (first use in this function)0(22@33"Missing sentinel in function call313127376#1164#118#0(6@69"/Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m313127374#100#0#100#0#0"0(22@33"Missing sentinel in function call313127376#1282#118#0(6@69"/Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m313127374#106#0#106#0#0"0(22@33"Missing sentinel in function call313127376#1400#118#0(6@69"/Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m313127374#112#0#112#0#0"0(0#0#69"/Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m8616053920#2016"    cd /Users/tricom7/Documents/WorldPhotos    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-generated-files.hmap -I/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-own-target-headers.hmap -I/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-all-target-headers.hmap -iquote /Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-project-headers.hmap -F/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator -I/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/include -I/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/DerivedSources/i386 -I/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/DerivedSources -include /var/folders/wv/wv7Yk39CFx8db4vQjr2nrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WorldPhotos_Prefix-gkgjbggtvulaejfwpyaprxmrzwxj/WorldPhotos_Prefix.pch -c /Users/tricom7/Documents/WorldPhotos/Classes/WorldPhotosAppDelegate.m -o /Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/WorldPhotosAppDelegate.o1#
+
+CCompileC build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/main.o /Users/tricom7/Documents/WorldPhotos/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313127376.744238
+e313127376.911559
+r1
+xCompileC
+xbuild/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/main.o
+x/Users/tricom7/Documents/WorldPhotos/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/tricom7/Documents/WorldPhotos/main.m313127376#313127376#0(0"0(0#0#43"/Users/tricom7/Documents/WorldPhotos/main.m8615992896#1972"    cd /Users/tricom7/Documents/WorldPhotos    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-generated-files.hmap -I/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-own-target-headers.hmap -I/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-all-target-headers.hmap -iquote /Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-project-headers.hmap -F/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator -I/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/include -I/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/DerivedSources/i386 -I/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/DerivedSources -include /var/folders/wv/wv7Yk39CFx8db4vQjr2nrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WorldPhotos_Prefix-gkgjbggtvulaejfwpyaprxmrzwxj/WorldPhotos_Prefix.pch -c /Users/tricom7/Documents/WorldPhotos/main.m -o /Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/tricom7/Documents/WorldPhotos/MainWindow.xib
+s313127374.674602
+e313127375.183109
+r1
+xCompileXIB
+x/Users/tricom7/Documents/WorldPhotos/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib313127374#313127375#0(0"0(0#0#51"/Users/tricom7/Documents/WorldPhotos/MainWindow.xib8612068480#568"    cd /Users/tricom7/Documents/WorldPhotos    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app/MainWindow.nib /Users/tricom7/Documents/WorldPhotos/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/tricom7/Documents/WorldPhotos/RootViewController.xib
+s313127374.705847
+e313127375.143395
+r1
+xCompileXIB
+x/Users/tricom7/Documents/WorldPhotos/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib313127374#313127375#0(0"0(0#0#59"/Users/tricom7/Documents/WorldPhotos/RootViewController.xib8604601184#584"    cd /Users/tricom7/Documents/WorldPhotos    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app/RootViewController.nib /Users/tricom7/Documents/WorldPhotos/RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCpResource build/Debug-iphonesimulator/WorldPhotos.app/Africa_Morocco_1.jpg Africa_Morocco_1.jpg
+s313127375.144263
+e313127375.218581
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WorldPhotos.app/Africa_Morocco_1.jpg
+xAfrica_Morocco_1.jpg
+lSLF07#2@25"Copy Africa_Morocco_1.jpg313127375#313127375#0(0"0(0#0#57"/Users/tricom7/Documents/WorldPhotos/Africa_Morocco_1.jpg8615884096#462"    cd /Users/tricom7/Documents/WorldPhotos    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tricom7/Documents/WorldPhotos/Africa_Morocco_1.jpg /Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app0#
+
+CCpResource build/Debug-iphonesimulator/WorldPhotos.app/Africa_Morocco_1_thumbnail.jpg Africa_Morocco_1_thumbnail.jpg
+s313127375.143538
+e313127375.174340
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WorldPhotos.app/Africa_Morocco_1_thumbnail.jpg
+xAfrica_Morocco_1_thumbnail.jpg
+lSLF07#2@35"Copy Africa_Morocco_1_thumbnail.jpg313127375#313127375#0(0"0(0#0#67"/Users/tricom7/Documents/WorldPhotos/Africa_Morocco_1_thumbnail.jpg8612090656#472"    cd /Users/tricom7/Documents/WorldPhotos    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tricom7/Documents/WorldPhotos/Africa_Morocco_1_thumbnail.jpg /Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app0#
+
+CCpResource build/Debug-iphonesimulator/WorldPhotos.app/Asia_Japan_1.jpg Asia_Japan_1.jpg
+s313127375.145901
+e313127375.215205
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WorldPhotos.app/Asia_Japan_1.jpg
+xAsia_Japan_1.jpg
+lSLF07#2@21"Copy Asia_Japan_1.jpg313127375#313127375#0(0"0(0#0#53"/Users/tricom7/Documents/WorldPhotos/Asia_Japan_1.jpg8611654208#458"    cd /Users/tricom7/Documents/WorldPhotos    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tricom7/Documents/WorldPhotos/Asia_Japan_1.jpg /Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app0#
+
+CCpResource build/Debug-iphonesimulator/WorldPhotos.app/Asia_Japan_1_thumbnail.jpg Asia_Japan_1_thumbnail.jpg
+s313127375.144896
+e313127375.177400
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WorldPhotos.app/Asia_Japan_1_thumbnail.jpg
+xAsia_Japan_1_thumbnail.jpg
+lSLF07#2@31"Copy Asia_Japan_1_thumbnail.jpg313127375#313127375#0(0"0(0#0#63"/Users/tricom7/Documents/WorldPhotos/Asia_Japan_1_thumbnail.jpg8611813024#468"    cd /Users/tricom7/Documents/WorldPhotos    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tricom7/Documents/WorldPhotos/Asia_Japan_1_thumbnail.jpg /Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app0#
+
+CCpResource build/Debug-iphonesimulator/WorldPhotos.app/Europe_Swiss_1.jpg Europe_Swiss_1.jpg
+s313127375.147904
+e313127375.214929
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WorldPhotos.app/Europe_Swiss_1.jpg
+xEurope_Swiss_1.jpg
+lSLF07#2@23"Copy Europe_Swiss_1.jpg313127375#313127375#0(0"0(0#0#55"/Users/tricom7/Documents/WorldPhotos/Europe_Swiss_1.jpg8616035936#460"    cd /Users/tricom7/Documents/WorldPhotos    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tricom7/Documents/WorldPhotos/Europe_Swiss_1.jpg /Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app0#
+
+CCpResource build/Debug-iphonesimulator/WorldPhotos.app/Europe_Swiss_1_thumbnail.jpg Europe_Swiss_1_thumbnail.jpg
+s313127375.146924
+e313127375.173309
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WorldPhotos.app/Europe_Swiss_1_thumbnail.jpg
+xEurope_Swiss_1_thumbnail.jpg
+lSLF07#2@33"Copy Europe_Swiss_1_thumbnail.jpg313127375#313127375#0(0"0(0#0#65"/Users/tricom7/Documents/WorldPhotos/Europe_Swiss_1_thumbnail.jpg8616195168#470"    cd /Users/tricom7/Documents/WorldPhotos    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tricom7/Documents/WorldPhotos/Europe_Swiss_1_thumbnail.jpg /Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app0#
+
+CGenerateDSYMFile /Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app.dSYM /Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app/WorldPhotos
+r0
+
+CLd /Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app/WorldPhotos normal i386
+r0
+
+CProcessInfoPlistFile /Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app/Info.plist WorldPhotos-Info.plist
+s313127374.657718
+e313127374.674497
+r1
+xProcessInfoPlistFile
+x/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app/Info.plist
+xWorldPhotos-Info.plist
+lSLF07#2@30"Process WorldPhotos-Info.plist313127374#313127374#0(0"0(0#0#59"/Users/tricom7/Documents/WorldPhotos/WorldPhotos-Info.plist28429445101453416#485"    cd /Users/tricom7/Documents/WorldPhotos    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility WorldPhotos-Info.plist -genpkginfo /Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app/Info.plist0#
+
+CProcessPCH /var/folders/wv/wv7Yk39CFx8db4vQjr2nrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WorldPhotos_Prefix-gkgjbggtvulaejfwpyaprxmrzwxj/WorldPhotos_Prefix.pch.gch WorldPhotos_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s313127375.235176
+e313127376.743859
+r1
+xProcessPCH
+x/var/folders/wv/wv7Yk39CFx8db4vQjr2nrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WorldPhotos_Prefix-gkgjbggtvulaejfwpyaprxmrzwxj/WorldPhotos_Prefix.pch.gch
+xWorldPhotos_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile WorldPhotos_Prefix.pch313127375#313127376#0(0"0(0#0#59"/Users/tricom7/Documents/WorldPhotos/WorldPhotos_Prefix.pch8616058272#1862"    cd /Users/tricom7/Documents/WorldPhotos    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-generated-files.hmap -I/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-own-target-headers.hmap -I/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-all-target-headers.hmap -iquote /Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/WorldPhotos-project-headers.hmap -F/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator -I/Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/include -I/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/DerivedSources/i386 -I/Users/tricom7/Documents/WorldPhotos/build/WorldPhotos.build/Debug-iphonesimulator/WorldPhotos.build/DerivedSources -c /Users/tricom7/Documents/WorldPhotos/WorldPhotos_Prefix.pch -o /var/folders/wv/wv7Yk39CFx8db4vQjr2nrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WorldPhotos_Prefix-gkgjbggtvulaejfwpyaprxmrzwxj/WorldPhotos_Prefix.pch.gch0#
+
+CTouch /Users/tricom7/Documents/WorldPhotos/build/Debug-iphonesimulator/WorldPhotos.app
+r0
+
